@@ -69,7 +69,7 @@ L'application doit permettre de :
 ### Architecture technique
 ---
 L'image suivante présente l'architecture globale du projet.<br/><br/>
-![Architecture_QuartzScheduler](https://user-images.githubusercontent.com/75081354/140496894-6b4f73f9-60bc-4a67-919c-da010b08bb45.jpg)
+![Architecture_QuartzScheduler](https://user-images.githubusercontent.com/75081354/140499330-a8652040-d0e4-4024-82f7-04d8cb13de31.jpg)
 
 Le module au cœur du Spring Framework (Spring Core) repose fondamentalement sur un seul principe de conception objet : l’inversion de contrôle.
 
