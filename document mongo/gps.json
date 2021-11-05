@@ -1,0 +1,1401 @@
+[{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee94"
+  },
+  "id": "7c2d2de3-c2cd-4fb9-93ef-a770c990d321",
+  "externalId": "212014918914478",
+  "name": "PF-95399",
+  "pfVehicleId": "PF-95399",
+  "type": "gps",
+  "latitude": 43.82173196,
+  "longitude": 5.01653239,
+  "dateTime": "2021-03-30T10:14:38.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T10:14:38.004Z\",\"latitude\":43.82173196,\"longitude\":5.01653239,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Plan-d'Orgon, Provence-Alpes-Côte d'Azur, 13750\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee8b"
+  },
+  "id": "75a0dd76-0205-4c1b-ab4d-99b7b9e5a728",
+  "externalId": "212014918915096",
+  "name": "PF-79272",
+  "pfVehicleId": "PF-79272",
+  "type": "gps",
+  "latitude": 47.28368289,
+  "longitude": 5.13711548,
+  "dateTime": "2021-03-30T10:40:39.008Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T10:40:39.008Z\",\"latitude\":47.28368289,\"longitude\":5.13711548,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Chevigny-Saint-Sauveur, Bourgogne-Franche-Comté, 21800\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee96"
+  },
+  "id": "ba3c4425-5523-467f-afed-ee48b785b45e",
+  "externalId": "212014918914688",
+  "name": "PF-79499",
+  "pfVehicleId": "PF-79499",
+  "type": "gps",
+  "latitude": 47.2825046,
+  "longitude": 5.12725538,
+  "dateTime": "2021-03-30T19:59:20.997Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:59:20.997Z\",\"latitude\":47.2825046,\"longitude\":5.12725538,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Impasse du Champ Chardon, Chevigny-Saint-Sauveur, Bourgogne-Franche-Comté, 21800\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee8f"
+  },
+  "id": "db9efe5f-4792-4bff-9f8b-864b5f4faa63",
+  "externalId": "212014918914496",
+  "name": "PF-68902",
+  "pfVehicleId": "PF-68902",
+  "type": "gps",
+  "latitude": 49.57116975,
+  "longitude": 6.07967067,
+  "dateTime": "2021-03-30T19:22:09.314Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:22:09.314Z\",\"latitude\":49.57116975,\"longitude\":6.07967067,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Leudelange, Canton Esch-sur-Alzette, 3372\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9e"
+  },
+  "id": "342c3c80-2dbd-4651-949f-162df0fb0dcf",
+  "externalId": "212014918914730",
+  "name": "PF-58604",
+  "pfVehicleId": "PF-58604",
+  "type": "gps",
+  "latitude": 46.69053594,
+  "longitude": 5.56251826,
+  "dateTime": "2021-03-30T19:03:10.042Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:03:10.042Z\",\"latitude\":46.69053594,\"longitude\":5.56251826,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Villeneuve-sous-Pymont, Bourgogne-Franche-Comté, 39570\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9b"
+  },
+  "id": "487401d7-dee3-47b0-b431-029314bef623",
+  "externalId": "212014918914584",
+  "name": "ROUEN 01/1",
+  "pfVehicleId": "ROUEN 01/1",
+  "type": "gps",
+  "latitude": 49.452687269,
+  "longitude": 1.05316143,
+  "dateTime": "2021-03-30T19:35:40.494Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:35:40.494Z\",\"latitude\":49.452687269,\"longitude\":1.05316143,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Autoroute de Barentin, Rouen, Normandie, 76000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee8c"
+  },
+  "id": "fe804f06-fa8b-4004-b42b-66ee25e55fe5",
+  "externalId": "212014918914706",
+  "name": "PF-62237",
+  "pfVehicleId": "PF-62237",
+  "type": "gps",
+  "latitude": 49.63493255,
+  "longitude": 5.88889535,
+  "dateTime": "2021-03-30T19:41:05.956Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:41:05.956Z\",\"latitude\":49.63493255,\"longitude\":5.88889535,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Charles Kieffer, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9c"
+  },
+  "id": "88b7cd57-a3eb-4ea9-aabe-085578a4e60e",
+  "externalId": "212014918914073",
+  "name": "PF-94486",
+  "pfVehicleId": "PF-94486",
+  "type": "gps",
+  "latitude": 49.7085648,
+  "longitude": 6.487202229,
+  "dateTime": "2021-03-30T19:55:22.984Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:55:22.984Z\",\"latitude\":49.7085648,\"longitude\":6.487202229,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Sandkaul, Mertert, Canton Grevenmacher\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9d"
+  },
+  "id": "548b45b1-79df-43d6-9f2f-10216c6738c8",
+  "externalId": "212014918914685",
+  "name": "PF-53577",
+  "pfVehicleId": "PF-53577",
+  "type": "gps",
+  "latitude": 49.63360584,
+  "longitude": 5.89002204,
+  "dateTime": "2020-09-25T08:49:07.999Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-09-25T08:49:07.999Z\",\"latitude\":49.63360584,\"longitude\":5.89002204,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Luss Arendt, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee8e"
+  },
+  "id": "b018fa07-4c7b-4ba7-9c7c-b525fa3c2741",
+  "externalId": "212014918914799",
+  "name": "PF-65538",
+  "pfVehicleId": "PF-65538",
+  "type": "gps",
+  "latitude": 49.641759839,
+  "longitude": 6.274078689,
+  "dateTime": "2021-03-30T18:58:38.909Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:58:38.909Z\",\"latitude\":49.641759839,\"longitude\":6.274078689,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Schuttrange, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee91"
+  },
+  "id": "6e937345-3ea9-47aa-8705-8c0b4a7514b0",
+  "externalId": "212014918914088",
+  "name": "PF-79959",
+  "pfVehicleId": "PF-79959",
+  "type": "gps",
+  "latitude": 49.63501297,
+  "longitude": 5.88861109,
+  "dateTime": "2021-03-30T19:48:12.854Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:48:12.854Z\",\"latitude\":49.63501297,\"longitude\":5.88861109,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee8d"
+  },
+  "id": "74986fbd-2986-4ebc-8310-56039ae082f8",
+  "externalId": "212014918914297",
+  "name": "PF-72221",
+  "pfVehicleId": "PF-72221",
+  "type": "gps",
+  "latitude": 43.928194709,
+  "longitude": 4.88339109,
+  "dateTime": "2021-03-30T19:49:59.386Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:49:59.386Z\",\"latitude\":43.928194709,\"longitude\":4.88339109,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Yolande, Avignon, Provence-Alpes-Côte d'Azur, 84000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee98"
+  },
+  "id": "fbe757c8-f4e8-4a74-9e3c-117f085ed84e",
+  "externalId": "212014918915083",
+  "name": "ST-13133",
+  "pfVehicleId": "ST-13133",
+  "type": "gps",
+  "latitude": 47.32257486,
+  "longitude": 5.07156804,
+  "dateTime": "2021-03-30T16:40:20.008Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T16:40:20.008Z\",\"latitude\":47.32257486,\"longitude\":5.07156804,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Boulevard Maréchal de Lattre de Tassigny, Dijon, Bourgogne-Franche-Comté, 21000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee90"
+  },
+  "id": "da3ecb77-c23d-4cca-8e8a-e6320cfc9064",
+  "externalId": "212014918915087",
+  "name": "PF-66115",
+  "pfVehicleId": "PF-66115",
+  "type": "gps",
+  "latitude": 50.39711134,
+  "longitude": 3.09859183,
+  "dateTime": "2021-03-30T19:36:38.276Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:36:38.276Z\",\"latitude\":50.39711134,\"longitude\":3.09859183,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Jean Perrin, Douai, Hauts-de-France, 59500\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee95"
+  },
+  "id": "60442de5-624d-45e7-abcd-17790dba4500",
+  "externalId": "212014918914080",
+  "name": "PF-65062",
+  "pfVehicleId": "PF-65062",
+  "type": "gps",
+  "latitude": 49.669501199,
+  "longitude": 5.66229273,
+  "dateTime": "2021-03-30T19:56:07.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:56:07.004Z\",\"latitude\":49.669501199,\"longitude\":5.66229273,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de la Semois, Étalle, Wallonie\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9a"
+  },
+  "id": "5d11eaee-4674-4ad5-b259-2d116092872c",
+  "externalId": "212014918914724",
+  "name": "PF-80623",
+  "pfVehicleId": "PF-80623",
+  "type": "gps",
+  "latitude": 49.668780499,
+  "longitude": 6.03538965,
+  "dateTime": "2021-03-30T19:13:49.797Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:13:49.797Z\",\"latitude\":49.668780499,\"longitude\":6.03538965,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de Kopstal, Kehlen, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee92"
+  },
+  "id": "bf275445-8072-455f-ba55-91034aa10d6e",
+  "externalId": "212014918914260",
+  "name": "PF-77277",
+  "pfVehicleId": "PF-77277",
+  "type": "gps",
+  "latitude": 49.63391451,
+  "longitude": 5.89010351,
+  "dateTime": "2021-03-30T19:22:32.514Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:22:32.514Z\",\"latitude\":49.63391451,\"longitude\":5.89010351,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Luss Arendt, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee99"
+  },
+  "id": "34cdea5d-e05b-476a-baed-c6bbd34e49ff",
+  "externalId": "212014918914078",
+  "name": "PF-85282",
+  "pfVehicleId": "PF-85282",
+  "type": "gps",
+  "latitude": 48.30837719,
+  "longitude": 7.51133389,
+  "dateTime": "2021-03-30T19:39:34.924Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:39:34.924Z\",\"latitude\":48.30837719,\"longitude\":7.51133389,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Ebersheim, Grand Est, 67600\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee93"
+  },
+  "id": "8ccf5bfc-edf5-498c-a7a8-b8aa5dc88b10",
+  "externalId": "212014918914877",
+  "name": "PF-72039",
+  "pfVehicleId": "PF-72039",
+  "type": "gps",
+  "latitude": 48.13213937,
+  "longitude": 6.59435233,
+  "dateTime": "2021-03-30T19:15:48.075Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:15:48.075Z\",\"latitude\":48.13213937,\"longitude\":6.59435233,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Cheniménil, Grand Est, 88460\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee97"
+  },
+  "id": "7adafede-ac63-4133-9f41-5de1952b9146",
+  "externalId": "212014918914613",
+  "name": "PF-91864",
+  "pfVehicleId": "PF-91864",
+  "type": "gps",
+  "latitude": 47.31041951,
+  "longitude": 4.70776813,
+  "dateTime": "2021-03-30T19:07:33.921Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:07:33.921Z\",\"latitude\":47.31041951,\"longitude\":4.70776813,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de Lauterecken, Sombernon, Bourgogne-Franche-Comté, 21540\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceebf"
+  },
+  "id": "b86b6866-f2f3-4bd9-b81c-1bfad71f46b1",
+  "externalId": "212014918914275",
+  "name": "MONTAUBAN 02/3",
+  "pfVehicleId": "MONTAUBAN 02/3",
+  "type": "gps",
+  "latitude": 43.97924949,
+  "longitude": 1.32973632,
+  "dateTime": "2021-03-30T19:29:16.286Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:29:16.286Z\",\"latitude\":43.97924949,\"longitude\":1.32973632,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Route de Montbartier, Montauban, Occitanie, 82000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec5"
+  },
+  "id": "06705257-8a9c-4e8e-83dd-7c5c99fb68b6",
+  "externalId": "212014918914915",
+  "name": "PF-81452",
+  "pfVehicleId": "PF-81452",
+  "type": "gps",
+  "latitude": 47.22533929,
+  "longitude": 4.9973435,
+  "dateTime": "2021-03-29T11:08:53.005Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-29T11:08:53.005Z\",\"latitude\":47.22533929,\"longitude\":4.9973435,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Artisans, Gevrey-Chambertin, Bourgogne-Franche-Comté, 21220\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec7"
+  },
+  "id": "1f441e8b-c215-41ce-866b-e5b63e75e1b8",
+  "externalId": "212014918914918",
+  "name": "PF-88854",
+  "pfVehicleId": "PF-88854",
+  "type": "gps",
+  "latitude": 47.22529334,
+  "longitude": 4.99736546,
+  "dateTime": "2020-11-02T12:19:16.007Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-11-02T12:19:16.007Z\",\"latitude\":47.22529334,\"longitude\":4.99736546,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Artisans, Gevrey-Chambertin, Bourgogne-Franche-Comté, 21220\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec6"
+  },
+  "id": "9fa6b563-4e38-4c82-9c6c-639975d1d353",
+  "externalId": "212014918915074",
+  "name": "PF-68328",
+  "pfVehicleId": "PF-68328",
+  "type": "gps",
+  "latitude": 47.578445339,
+  "longitude": 4.86190529,
+  "dateTime": "2021-03-30T19:10:22.218Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:10:22.218Z\",\"latitude\":47.578445339,\"longitude\":4.86190529,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Salives, Bourgogne-Franche-Comté, 21580\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeca"
+  },
+  "id": "cad7cb39-8d6c-4456-b3c0-15c9507fa676",
+  "externalId": "212014918914922",
+  "name": "NICE 02/3",
+  "pfVehicleId": "NICE 02/3",
+  "type": "gps",
+  "latitude": 43.737504389,
+  "longitude": 7.184071939,
+  "dateTime": "2021-03-24T10:16:47.005Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-24T10:16:47.005Z\",\"latitude\":43.737504389,\"longitude\":7.184071939,\"headingDegrees\":180,\"speedMilesPerHour\":65,\"reverseGeo\":{\"formattedLocation\":\"Boulevard du Mercantour, Nice, Provence-Alpes-Côte d'Azur\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceecc"
+  },
+  "id": "75a4f171-77b2-449b-8396-3f5076fb37f6",
+  "externalId": "212014918914246",
+  "name": "PF-80622",
+  "pfVehicleId": "PF-80622",
+  "type": "gps",
+  "latitude": 49.66886535,
+  "longitude": 6.03556811,
+  "dateTime": "2021-03-30T19:09:38.129Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:09:38.129Z\",\"latitude\":49.66886535,\"longitude\":6.03556811,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de Kopstal, Kehlen, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed0"
+  },
+  "id": "1017674e-17ba-4725-abe8-8485e42f977d",
+  "externalId": "212014918886617",
+  "name": "PF-94023",
+  "pfVehicleId": "PF-94023",
+  "type": "gps",
+  "latitude": 49.87036503,
+  "longitude": 5.41799551,
+  "dateTime": "2021-03-30T18:59:05.405Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:59:05.405Z\",\"latitude\":49.87036503,\"longitude\":5.41799551,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Chaussée de la Braquenière, Neufchâteau, Wallonie, 6840\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea5"
+  },
+  "id": "fbb2a005-5bbf-4092-969c-0b5151a66245",
+  "externalId": "212014918914604",
+  "name": "PF-62490",
+  "pfVehicleId": "PF-62490",
+  "type": "gps",
+  "latitude": 50.01128922,
+  "longitude": 14.4690202,
+  "dateTime": "2021-03-30T19:32:57.430Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:32:57.430Z\",\"latitude\":50.01128922,\"longitude\":14.4690202,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"CZ0100554782, CZ01, 14800\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeab"
+  },
+  "id": "144db9c5-7b18-499b-a968-4eab46bb2b41",
+  "externalId": "212014918914856",
+  "name": "PF-88804",
+  "pfVehicleId": "PF-88804",
+  "type": "gps",
+  "latitude": 47.22562804,
+  "longitude": 4.99734819,
+  "dateTime": "2021-03-30T04:13:10.010Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T04:13:10.010Z\",\"latitude\":47.22562804,\"longitude\":4.99734819,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Artisans, Gevrey-Chambertin, Bourgogne-Franche-Comté, 21220\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeae"
+  },
+  "id": "c9bc4e36-c6cf-4af3-ba10-f4b14b5bdc6b",
+  "externalId": "212014918915079",
+  "name": "PF-89976",
+  "pfVehicleId": "PF-89976",
+  "type": "gps",
+  "latitude": 47.021695339,
+  "longitude": 4.83105305,
+  "dateTime": "2020-08-27T11:00:47.017Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-08-27T11:00:47.017Z\",\"latitude\":47.021695339,\"longitude\":4.83105305,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Prevolles, Beaune, Bourgogne-Franche-Comté, 21200\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb5"
+  },
+  "id": "11455b27-8937-4370-957f-6938e9a9eda7",
+  "externalId": "212014918914953",
+  "name": "PF-86761",
+  "pfVehicleId": "PF-86761",
+  "type": "gps",
+  "latitude": 47.23506216,
+  "longitude": 5.22742962,
+  "dateTime": "2021-03-30T19:58:27.005Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:58:27.005Z\",\"latitude\":47.23506216,\"longitude\":5.22742962,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Avenue du Général de Gaulle, Genlis, Bourgogne-Franche-Comté, 21110\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea8"
+  },
+  "id": "b4667ae9-c50b-4ea6-9222-0abdbdcda7f4",
+  "externalId": "212014918914471",
+  "name": "PF-74756",
+  "pfVehicleId": "PF-74756",
+  "type": "gps",
+  "latitude": 43.51217066,
+  "longitude": 5.4578476,
+  "dateTime": "2021-03-30T19:59:20.000Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:59:20.000Z\",\"latitude\":43.51217066,\"longitude\":5.4578476,\"headingDegrees\":267,\"speedMilesPerHour\":56,\"reverseGeo\":{\"formattedLocation\":\"La Provençale, Aix-en-Provence, Provence-Alpes-Côte d'Azur\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb6"
+  },
+  "id": "2a93338c-ac5a-4d13-9b24-2719b47855cb",
+  "externalId": "212014918914410",
+  "name": "PF-69714",
+  "pfVehicleId": "PF-69714",
+  "type": "gps",
+  "latitude": 43.91060023,
+  "longitude": 5.05813034,
+  "dateTime": "2021-03-30T18:56:56.719Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:56:56.719Z\",\"latitude\":43.91060023,\"longitude\":5.05813034,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"L'Isle-sur-la-Sorgue, Provence-Alpes-Côte d'Azur, 84800\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec8"
+  },
+  "id": "8287f2ec-a9ed-48da-9523-ed86c2e549f6",
+  "externalId": "212014918914802",
+  "name": "PF-72463",
+  "pfVehicleId": "PF-72463",
+  "type": "gps",
+  "latitude": 49.56240469,
+  "longitude": 6.06687467,
+  "dateTime": "2021-03-30T19:00:09.901Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:00:09.901Z\",\"latitude\":49.56240469,\"longitude\":6.06687467,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Leudelange, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceecd"
+  },
+  "id": "60afb5e5-4488-4f8d-bdff-aec1796bcfa2",
+  "externalId": "212014918914559",
+  "name": "PF-58372",
+  "pfVehicleId": "PF-58372",
+  "type": "gps",
+  "latitude": 49.606291519,
+  "longitude": 6.14204453,
+  "dateTime": "2021-03-30T12:26:33.040Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T12:26:33.040Z\",\"latitude\":49.606291519,\"longitude\":6.14204453,\"headingDegrees\":160,\"speedMilesPerHour\":6,\"reverseGeo\":{\"formattedLocation\":\"Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed1"
+  },
+  "id": "a6a4ee2b-3b53-406f-90fd-0b5a659e9c46",
+  "externalId": "212014918914807",
+  "name": "RENNES 02/2",
+  "pfVehicleId": "RENNES 02/2",
+  "type": "gps",
+  "latitude": 48.10647272,
+  "longitude": -1.50823504,
+  "dateTime": "2021-03-30T19:53:18.099Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:53:18.099Z\",\"latitude\":48.10647272,\"longitude\":-1.50823504,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Noyal-sur-Vilaine, Bretagne, 35530\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec2"
+  },
+  "id": "62bb510d-3a5d-4c5e-accc-66ec8298efd4",
+  "externalId": "212014918914816",
+  "name": "PF-46192",
+  "pfVehicleId": "PF-46192",
+  "type": "gps",
+  "latitude": 49.864063199,
+  "longitude": 6.1680467,
+  "dateTime": "2021-03-30T19:05:25.609Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:05:25.609Z\",\"latitude\":49.864063199,\"longitude\":6.1680467,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Diekirch, Canton Diekirch\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceecf"
+  },
+  "id": "b26f52ac-cebb-4c06-9827-98fae026f9c6",
+  "externalId": "212014918914343",
+  "name": "PF-53024",
+  "pfVehicleId": "PF-53024",
+  "type": "gps",
+  "latitude": 47.946087,
+  "longitude": 5.73430408,
+  "dateTime": "2021-03-30T19:07:47.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:07:47.006Z\",\"latitude\":47.946087,\"longitude\":5.73430408,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Bourbonne-les-Bains, Grand Est, 52400\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed2"
+  },
+  "id": "c7c396cb-47a7-4bd1-b6f9-60e06073e420",
+  "externalId": "212014918914212",
+  "name": "PF-77015",
+  "pfVehicleId": "PF-77015",
+  "type": "gps",
+  "latitude": 49.567414139,
+  "longitude": 5.93496083,
+  "dateTime": "2021-03-30T19:03:26.120Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:03:26.120Z\",\"latitude\":49.567414139,\"longitude\":5.93496083,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Käerjeng, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed5"
+  },
+  "id": "53e608df-1a9c-4276-bd0f-1283195d8b5c",
+  "externalId": "212014918914378",
+  "name": "PF-72220",
+  "pfVehicleId": "PF-72220",
+  "type": "gps",
+  "latitude": 43.71851014,
+  "longitude": 5.30801856,
+  "dateTime": "2021-03-14T22:17:16.620Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-14T22:17:16.620Z\",\"latitude\":43.71851014,\"longitude\":5.30801856,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Avenue des Alpilles, La Roque-d'Anthéron, Provence-Alpes-Côte d'Azur, 13640\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea0"
+  },
+  "id": "57380faa-e689-415b-a533-d4b8721a72d4",
+  "externalId": "212014918914812",
+  "name": "PF-94488",
+  "pfVehicleId": "PF-94488",
+  "type": "gps",
+  "latitude": 49.70865583,
+  "longitude": 6.48673385,
+  "dateTime": "2021-03-30T18:57:59.128Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:57:59.128Z\",\"latitude\":49.70865583,\"longitude\":6.48673385,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Sandkaul, Mertert, Canton Grevenmacher\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeaf"
+  },
+  "id": "80805205-903c-4604-b367-bccb28d03c61",
+  "externalId": "212014918914532",
+  "name": "PF-89969",
+  "pfVehicleId": "PF-89969",
+  "type": "gps",
+  "latitude": 49.47766569,
+  "longitude": 6.10164437,
+  "dateTime": "2021-03-30T19:52:22.009Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:52:22.009Z\",\"latitude\":49.47766569,\"longitude\":6.10164437,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Dudelange, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceebe"
+  },
+  "id": "3b2f082f-71aa-42b4-b963-f2f8a9b47391",
+  "externalId": "212014918914205",
+  "name": "MARSEILLE 02/3",
+  "pfVehicleId": "MARSEILLE 02/3",
+  "type": "gps",
+  "latitude": 43.319647559,
+  "longitude": 5.5936297,
+  "dateTime": "2020-12-01T10:42:25.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-12-01T10:42:25.004Z\",\"latitude\":43.319647559,\"longitude\":5.5936297,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Aubagne, Provence-Alpes-Côte d'Azur, 13400\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceebd"
+  },
+  "id": "5a2018ef-f75a-4b06-86fa-05957cc39fa4",
+  "externalId": "212014918914727",
+  "name": "PF-89750",
+  "pfVehicleId": "PF-89750",
+  "type": "gps",
+  "latitude": 47.33979554,
+  "longitude": 5.076005249,
+  "dateTime": "2021-03-30T13:24:36.001Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T13:24:36.001Z\",\"latitude\":47.33979554,\"longitude\":5.076005249,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de la Redoute, Saint-Apollinaire, Bourgogne-Franche-Comté, 21000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed4"
+  },
+  "id": "23a96cac-a45b-440f-a250-e4f1d2f79677",
+  "externalId": "212014918914484",
+  "name": "PF-70130",
+  "pfVehicleId": "PF-70130",
+  "type": "gps",
+  "latitude": 43.846879809,
+  "longitude": 5.0160459,
+  "dateTime": "2021-03-30T19:55:04.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:55:04.004Z\",\"latitude\":43.846879809,\"longitude\":5.0160459,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Cavaillon, Provence-Alpes-Côte d'Azur, 84300\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea6"
+  },
+  "id": "0bda6fe8-4773-411c-8551-2cdefa878afa",
+  "externalId": "212014918914681",
+  "name": "LYON 06/6",
+  "pfVehicleId": "LYON 06/6",
+  "type": "gps",
+  "latitude": 45.75952508,
+  "longitude": 4.90134855,
+  "dateTime": "2021-03-30T19:15:52.003Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:15:52.003Z\",\"latitude\":45.75952508,\"longitude\":4.90134855,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Cyprian, Villeurbanne, Auvergne-Rhône-Alpes, 69100\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec0"
+  },
+  "id": "2f1068c4-8b32-41cd-ac87-36c0b07da9aa",
+  "externalId": "212014918914550",
+  "name": "PF-55330",
+  "pfVehicleId": "PF-55330",
+  "type": "gps",
+  "latitude": 49.583055739,
+  "longitude": 6.26002661,
+  "dateTime": "2021-03-30T19:45:18.096Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:45:18.096Z\",\"latitude\":49.583055739,\"longitude\":6.26002661,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Kiem, Contern, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec1"
+  },
+  "id": "ace03531-0aec-4498-8858-1279c869fe91",
+  "externalId": "212014918914063",
+  "name": "PF-70681",
+  "pfVehicleId": "PF-70681",
+  "type": "gps",
+  "latitude": 49.510709919,
+  "longitude": 5.9725585,
+  "dateTime": "2021-03-30T19:59:10.201Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:59:10.201Z\",\"latitude\":49.510709919,\"longitude\":5.9725585,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Esch-sur-Alzette, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec9"
+  },
+  "id": "cd62344c-9816-4303-8d66-6faac4f8c54b",
+  "externalId": "212014918914519",
+  "name": "PF-87489",
+  "pfVehicleId": "PF-87489",
+  "type": "gps",
+  "latitude": 49.48173072,
+  "longitude": 6.08635292,
+  "dateTime": "2021-03-30T19:06:39.896Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:06:39.896Z\",\"latitude\":49.48173072,\"longitude\":6.08635292,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Dudelange, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea1"
+  },
+  "id": "1ede4179-fbff-4565-b14c-f83099778695",
+  "externalId": "212014918914464",
+  "name": "PF-82698",
+  "pfVehicleId": "PF-82698",
+  "type": "gps",
+  "latitude": 43.85599096,
+  "longitude": 5.042022189,
+  "dateTime": "2021-03-30T19:18:08.906Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:18:08.906Z\",\"latitude\":43.85599096,\"longitude\":5.042022189,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Cavaillon, Provence-Alpes-Côte d'Azur, 84300\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceead"
+  },
+  "id": "b9091f65-4444-4eab-9073-6480c9d9b12b",
+  "externalId": "212014918914717",
+  "name": "PF-91624",
+  "pfVehicleId": "PF-91624",
+  "type": "gps",
+  "latitude": 47.28463407,
+  "longitude": 5.01174351,
+  "dateTime": "2020-08-22T15:41:07.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-08-22T15:41:07.006Z\",\"latitude\":47.28463407,\"longitude\":5.01174351,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Chenôve, Bourgogne-Franche-Comté, 21300\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb2"
+  },
+  "id": "9e66dbf8-cf2e-49d9-bb59-231b5399a112",
+  "externalId": "212014918914066",
+  "name": "PF-65062",
+  "pfVehicleId": "PF-65062",
+  "type": "gps",
+  "latitude": 49.63359808,
+  "longitude": 5.89036599,
+  "dateTime": "2021-03-30T19:02:17.908Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:02:17.908Z\",\"latitude\":49.63359808,\"longitude\":5.89036599,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Luss Arendt, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb4"
+  },
+  "id": "8acbb034-9581-4606-b57b-5064ab9d0d26",
+  "externalId": "212014918915093",
+  "name": "PF-75631",
+  "pfVehicleId": "PF-75631",
+  "type": "gps",
+  "latitude": 47.28243982,
+  "longitude": 5.12718085,
+  "dateTime": "2021-03-30T19:56:12.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:56:12.004Z\",\"latitude\":47.28243982,\"longitude\":5.12718085,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Impasse du Champ Chardon, Chevigny-Saint-Sauveur, Bourgogne-Franche-Comté, 21800\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceecb"
+  },
+  "id": "322b9f46-efdf-447c-abad-84ca4bf5968c",
+  "externalId": "212014918914846",
+  "name": "PF-84614",
+  "pfVehicleId": "PF-84614",
+  "type": "gps",
+  "latitude": 49.70188483,
+  "longitude": 6.47880536,
+  "dateTime": "2021-03-30T19:57:51.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:57:51.006Z\",\"latitude\":49.70188483,\"longitude\":6.47880536,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue du Parc, Mertert, Canton Grevenmacher\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb3"
+  },
+  "id": "463507d3-0cfd-40e5-8160-4a3d32e61e91",
+  "externalId": "212014918914541",
+  "name": "LILLE 03/3",
+  "pfVehicleId": "LILLE 03/3",
+  "type": "gps",
+  "latitude": 50.65505095,
+  "longitude": 3.1711866,
+  "dateTime": "2021-03-30T19:57:58.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:57:58.004Z\",\"latitude\":50.65505095,\"longitude\":3.1711866,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Impasse Djumne, Hem, Hauts-de-France, 59510\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec3"
+  },
+  "id": "381f2f28-0b42-4c1a-ba6f-c4b5667533e3",
+  "externalId": "212014918914522",
+  "name": "PF-84041",
+  "pfVehicleId": "PF-84041",
+  "type": "gps",
+  "latitude": 49.83638989,
+  "longitude": 6.01386096,
+  "dateTime": "2021-03-30T19:27:50.118Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:27:50.118Z\",\"latitude\":49.83638989,\"longitude\":6.01386096,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Zone Industrielle, Mertzig, Canton Diekirch\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1cee9f"
+  },
+  "id": "168a3be1-6a41-4299-8045-07a465c77565",
+  "externalId": "212014918914943",
+  "name": "NICE 01/3",
+  "pfVehicleId": "NICE 01/3",
+  "type": "gps",
+  "latitude": 43.70652692,
+  "longitude": 7.32995283,
+  "dateTime": "2021-03-13T04:27:47.002Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-13T04:27:47.002Z\",\"latitude\":43.70652692,\"longitude\":7.32995283,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Boulevard du Maréchal Joffre, Beaulieu-sur-Mer, Provence-Alpes-Côte d'Azur, 06310\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea3"
+  },
+  "id": "b0d73e8b-8130-49e6-97ed-38075e1a5b47",
+  "externalId": "212014918914854",
+  "name": "PF-66955",
+  "pfVehicleId": "PF-66955",
+  "type": "gps",
+  "latitude": 47.2252965,
+  "longitude": 4.99736242,
+  "dateTime": "2021-03-30T10:23:39.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T10:23:39.006Z\",\"latitude\":47.2252965,\"longitude\":4.99736242,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Artisans, Gevrey-Chambertin, Bourgogne-Franche-Comté, 21220\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea2"
+  },
+  "id": "03ae9787-2f51-4f7f-802f-3c4aa9c16677",
+  "externalId": "212014918914968",
+  "name": "ALPES 01/4",
+  "pfVehicleId": "ALPES 01/4",
+  "type": "gps",
+  "latitude": 45.43294144,
+  "longitude": 6.01973405,
+  "dateTime": "2021-03-30T19:00:44.731Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:00:44.731Z\",\"latitude\":45.43294144,\"longitude\":6.01973405,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Pontcharra, Auvergne-Rhône-Alpes, 38530\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeaa"
+  },
+  "id": "270d5649-a8e7-4a87-a494-5c30a080feac",
+  "externalId": "212014918914430",
+  "name": "PF-57687",
+  "pfVehicleId": "PF-57687",
+  "type": "gps",
+  "latitude": 43.82466123,
+  "longitude": 5.02036092,
+  "dateTime": "2021-03-30T19:12:44.823Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:12:44.823Z\",\"latitude\":43.82466123,\"longitude\":5.02036092,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Plan-d'Orgon, Provence-Alpes-Côte d'Azur, 13750\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb0"
+  },
+  "id": "948e24a7-121d-47f9-9c83-d7e616812bb4",
+  "externalId": "212014918914962",
+  "name": "PF-60195",
+  "pfVehicleId": "PF-60195",
+  "type": "gps",
+  "latitude": 46.68076802,
+  "longitude": 5.58362071,
+  "dateTime": "2021-03-30T19:54:50.008Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:54:50.008Z\",\"latitude\":46.68076802,\"longitude\":5.58362071,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de la Lième, Perrigny, Bourgogne-Franche-Comté, 39570\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceec4"
+  },
+  "id": "c0089f8b-7ebb-4fc3-87ba-9045c8f1f876",
+  "externalId": "212014918914428",
+  "name": "MARSEILLE 03/3",
+  "pfVehicleId": "MARSEILLE 03/3",
+  "type": "gps",
+  "latitude": 43.69185586,
+  "longitude": 5.50519914,
+  "dateTime": "2021-03-30T19:11:54.117Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:11:54.117Z\",\"latitude\":43.69185586,\"longitude\":5.50519914,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Catalans, Pertuis, Provence-Alpes-Côte d'Azur, 84120\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea4"
+  },
+  "id": "4487caac-882f-4b9d-aeee-381c5441dcf8",
+  "externalId": "212014918914196",
+  "name": "PF-65062",
+  "pfVehicleId": "PF-65062",
+  "type": "gps",
+  "latitude": 49.48713721,
+  "longitude": 6.08626696,
+  "dateTime": "2021-03-30T19:56:36.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:56:36.006Z\",\"latitude\":49.48713721,\"longitude\":6.08626696,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Dudelange, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea7"
+  },
+  "id": "ec129d9a-cb3c-4625-bccc-4b81ddd0cb3d",
+  "externalId": "212014918914467",
+  "name": "PF-61942",
+  "pfVehicleId": "PF-61942",
+  "type": "gps",
+  "latitude": 43.8267924,
+  "longitude": 5.02109151,
+  "dateTime": "2021-03-30T19:54:39.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:54:39.006Z\",\"latitude\":43.8267924,\"longitude\":5.02109151,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Plan-d'Orgon, Provence-Alpes-Côte d'Azur, 13750\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeac"
+  },
+  "id": "a3c2aebd-84c1-4ebd-8d60-324fa290bd7c",
+  "externalId": "212014918914411",
+  "name": "PF-79960",
+  "pfVehicleId": "PF-79960",
+  "type": "gps",
+  "latitude": 49.63483822,
+  "longitude": 5.88907031,
+  "dateTime": "2021-03-30T19:26:22.224Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:26:22.224Z\",\"latitude\":49.63483822,\"longitude\":5.88907031,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Charles Kieffer, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceea9"
+  },
+  "id": "df8a4cb8-91b4-43dc-b16f-e5315163362b",
+  "externalId": "212014918914765",
+  "name": "PF-88293",
+  "pfVehicleId": "PF-88293",
+  "type": "gps",
+  "latitude": 47.751288739,
+  "longitude": 5.75287739,
+  "dateTime": "2021-03-30T19:48:38.709Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:48:38.709Z\",\"latitude\":47.751288739,\"longitude\":5.75287739,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue du Professeur Alexandre Desgrez, Cintrey, Bourgogne-Franche-Comté, 70120\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceece"
+  },
+  "id": "d6bb1901-3aec-45ea-92f5-0704d914613c",
+  "externalId": "212014918914222",
+  "name": "PF-62592",
+  "pfVehicleId": "PF-62592",
+  "type": "gps",
+  "latitude": 49.565093849,
+  "longitude": 6.15339784,
+  "dateTime": "2021-03-30T18:57:49.005Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:57:49.005Z\",\"latitude\":49.565093849,\"longitude\":6.15339784,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue de Bettembourg, Hesperange, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed3"
+  },
+  "id": "4d74c348-b0cc-4d7c-9927-3f281fd0f98d",
+  "externalId": "212014918914662",
+  "name": "PF-54748",
+  "pfVehicleId": "PF-54748",
+  "type": "gps",
+  "latitude": 49.63345135,
+  "longitude": 5.88960574,
+  "dateTime": "2021-03-30T19:51:40.155Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:51:40.155Z\",\"latitude\":49.63345135,\"longitude\":5.88960574,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Principale, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed7"
+  },
+  "id": "f58a4d46-0ec0-4b1a-951b-cdf201124b14",
+  "externalId": "212014918914507",
+  "name": "PF-70652",
+  "pfVehicleId": "PF-70652",
+  "type": "gps",
+  "latitude": 49.63352991,
+  "longitude": 5.89023106,
+  "dateTime": "2021-03-30T19:17:39.310Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:17:39.310Z\",\"latitude\":49.63352991,\"longitude\":5.89023106,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Luss Arendt, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed6"
+  },
+  "id": "bb506c76-2ea9-4fc1-97ab-7d66ab557253",
+  "externalId": "212014918914585",
+  "name": "PF-92269",
+  "pfVehicleId": "PF-92269",
+  "type": "gps",
+  "latitude": 49.83702043,
+  "longitude": 6.01387374,
+  "dateTime": "2021-03-30T19:38:01.925Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:38:01.925Z\",\"latitude\":49.83702043,\"longitude\":6.01387374,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Zone Industrielle, Mertzig, Canton Diekirch\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb1"
+  },
+  "id": "e67307e1-76cc-4432-8fc7-27fe22dae9ca",
+  "externalId": "212014918914614",
+  "name": "PF-84101",
+  "pfVehicleId": "PF-84101",
+  "type": "gps",
+  "latitude": 49.556671309,
+  "longitude": 5.858045729,
+  "dateTime": "2021-03-30T19:23:26.101Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:23:26.101Z\",\"latitude\":49.556671309,\"longitude\":5.858045729,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Pétange, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638342304a3d000e1ceeb7"
+  },
+  "id": "97a134e1-3db7-4a00-8ee5-82a9229a571f",
+  "externalId": "212014918915101",
+  "name": "PF-50129",
+  "pfVehicleId": "PF-50129",
+  "type": "gps",
+  "latitude": 47.35524551,
+  "longitude": 5.066272699,
+  "dateTime": "2021-03-30T19:04:22.973Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:04:22.973Z\",\"latitude\":47.35524551,\"longitude\":5.066272699,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Ardennes, Dijon, Bourgogne-Franche-Comté, 21000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceebc"
+  },
+  "id": "e62f179b-9e1c-433c-a31d-cd9acd35e8c5",
+  "externalId": "212014918914083",
+  "name": "PF-65062",
+  "pfVehicleId": "PF-65062",
+  "type": "gps",
+  "latitude": 49.63351175,
+  "longitude": 5.88965952,
+  "dateTime": "2020-07-31T02:18:44.007Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2020-07-31T02:18:44.007Z\",\"latitude\":49.63351175,\"longitude\":5.88965952,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Principale, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeda"
+  },
+  "id": "0e16f6df-32fe-46c2-ba82-67cd4782ef77",
+  "externalId": "212014918914523",
+  "name": "PF-63042",
+  "pfVehicleId": "PF-63042",
+  "type": "gps",
+  "latitude": 49.82049381,
+  "longitude": 6.28185897,
+  "dateTime": "2021-03-30T19:53:54.203Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:53:54.203Z\",\"latitude\":49.82049381,\"longitude\":6.28185897,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"An der Gruecht, Waldbillig, Canton Echternach\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceef5"
+  },
+  "id": "82477df8-454f-4050-a472-48b25dc54819",
+  "externalId": "212014918914514",
+  "name": "PF-79407",
+  "pfVehicleId": "PF-79407",
+  "type": "gps",
+  "latitude": 49.562366349,
+  "longitude": 5.93354507,
+  "dateTime": "2021-03-30T19:18:29.894Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:18:29.894Z\",\"latitude\":49.562366349,\"longitude\":5.93354507,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Op Zaemer, Käerjeng, Canton Capellen, 4959\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee1"
+  },
+  "id": "ede726e2-566e-474d-812b-73ff17c2082f",
+  "externalId": "212014918914466",
+  "name": "PF-79555",
+  "pfVehicleId": "PF-79555",
+  "type": "gps",
+  "latitude": 43.96380633,
+  "longitude": 5.03419714,
+  "dateTime": "2021-03-30T19:22:54.204Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:22:54.204Z\",\"latitude\":43.96380633,\"longitude\":5.03419714,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Velleron, Provence-Alpes-Côte d'Azur, 84740\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee0"
+  },
+  "id": "63b20227-d003-4918-9d12-7e8ff5a9a207",
+  "externalId": "212014918914423",
+  "name": "PF-68611",
+  "pfVehicleId": "PF-68611",
+  "type": "gps",
+  "latitude": 43.76565078,
+  "longitude": 5.05957947,
+  "dateTime": "2021-03-30T19:19:46.850Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:19:46.850Z\",\"latitude\":43.76565078,\"longitude\":5.05957947,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Chemin Donné, Orgon, Provence-Alpes-Côte d'Azur, 13660\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeee"
+  },
+  "id": "d5594ea1-c2a2-46dd-9af9-e23d9fa1b906",
+  "externalId": "212014918914442",
+  "name": "PF-76235",
+  "pfVehicleId": "PF-76235",
+  "type": "gps",
+  "latitude": 43.92103902,
+  "longitude": 5.01647862,
+  "dateTime": "2021-03-30T18:57:08.839Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T18:57:08.839Z\",\"latitude\":43.92103902,\"longitude\":5.01647862,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Allée de Sariette, Le Thor, Provence-Alpes-Côte d'Azur, 84250\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceef1"
+  },
+  "id": "c3321297-8e17-4b9f-8cac-2e76f502fa86",
+  "externalId": "212014918914503",
+  "name": "PF-78673",
+  "pfVehicleId": "PF-78673",
+  "type": "gps",
+  "latitude": 49.510712849,
+  "longitude": 5.97262492,
+  "dateTime": "2021-03-30T19:27:42.861Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:27:42.861Z\",\"latitude\":49.510712849,\"longitude\":5.97262492,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Esch-sur-Alzette, Canton Esch-sur-Alzette\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceef3"
+  },
+  "id": "c0f904f4-3523-40a3-9284-831d5dd24457",
+  "externalId": "212014918914482",
+  "name": "PF-46590",
+  "pfVehicleId": "PF-46590",
+  "type": "gps",
+  "latitude": 43.47652481,
+  "longitude": 5.23671139,
+  "dateTime": "2021-03-30T19:04:41.027Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:04:41.027Z\",\"latitude\":43.47652481,\"longitude\":5.23671139,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Avenue Amédéo Avogadro, Vitrolles, Provence-Alpes-Côte d'Azur, 13127\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee9"
+  },
+  "id": "5678d3bb-320c-4df8-b9f0-f703500e02a2",
+  "externalId": "212014918914607",
+  "name": "PF-92268",
+  "pfVehicleId": "PF-92268",
+  "type": "gps",
+  "latitude": 49.83640999,
+  "longitude": 6.01391514,
+  "dateTime": "2021-03-30T19:32:50.005Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:32:50.005Z\",\"latitude\":49.83640999,\"longitude\":6.01391514,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Zone Industrielle, Mertzig, Canton Diekirch\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceedd"
+  },
+  "id": "1c957963-4ef8-4a64-b9d0-bf739d5720d6",
+  "externalId": "212014918914447",
+  "name": "PF-95215",
+  "pfVehicleId": "PF-95215",
+  "type": "gps",
+  "latitude": 43.82164894,
+  "longitude": 5.0164651,
+  "dateTime": "2021-03-30T09:45:16.007Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T09:45:16.007Z\",\"latitude\":43.82164894,\"longitude\":5.0164651,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Plan-d'Orgon, Provence-Alpes-Côte d'Azur, 13750\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeed"
+  },
+  "id": "89c8c0a0-cd17-4d26-a875-09a6642b1e16",
+  "externalId": "212014918914837",
+  "name": "PF-86134",
+  "pfVehicleId": "PF-86134",
+  "type": "gps",
+  "latitude": 47.355492089,
+  "longitude": 5.06671062,
+  "dateTime": "2021-03-30T06:58:42.003Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T06:58:42.003Z\",\"latitude\":47.355492089,\"longitude\":5.06671062,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Ardennes, Dijon, Bourgogne-Franche-Comté, 21000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceedf"
+  },
+  "id": "e5cecc0d-0586-4987-9f63-9adc7d82bf4c",
+  "externalId": "212014918914649",
+  "name": "PF-60095",
+  "pfVehicleId": "PF-60095",
+  "type": "gps",
+  "latitude": 49.62445357,
+  "longitude": 6.11689776,
+  "dateTime": "2021-03-30T19:33:15.089Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:33:15.089Z\",\"latitude\":49.62445357,\"longitude\":6.11689776,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee4"
+  },
+  "id": "3e3f1c5f-0e95-4500-9112-048ea2c86258",
+  "externalId": "212014918914635",
+  "name": "PF-83932",
+  "pfVehicleId": "PF-83932",
+  "type": "gps",
+  "latitude": 49.63661002,
+  "longitude": 6.16587265,
+  "dateTime": "2021-03-30T19:49:04.900Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:49:04.900Z\",\"latitude\":49.63661002,\"longitude\":6.16587265,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Léon Thyes, Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee6"
+  },
+  "id": "17ddd18d-0c7f-4193-bede-629e28747c46",
+  "externalId": "212014918914214",
+  "name": "PF-66402",
+  "pfVehicleId": "PF-66402",
+  "type": "gps",
+  "latitude": 51.22482893,
+  "longitude": 3.19157825,
+  "dateTime": "2021-03-30T19:58:08.105Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:58:08.105Z\",\"latitude\":51.22482893,\"longitude\":3.19157825,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Brugge, Vlaanderen, 8000\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee7"
+  },
+  "id": "bfced662-5299-4434-b97a-196facc9b521",
+  "externalId": "212014918914240",
+  "name": "PF-83862",
+  "pfVehicleId": "PF-83862",
+  "type": "gps",
+  "latitude": 49.611570059,
+  "longitude": 6.167648979,
+  "dateTime": "2021-03-30T13:50:30.006Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T13:50:30.006Z\",\"latitude\":49.611570059,\"longitude\":6.167648979,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Walter Colling, Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee5"
+  },
+  "id": "8b1a4ec7-405e-4972-ab0c-8f779ec4689d",
+  "externalId": "212014918914558",
+  "name": "PF-57878",
+  "pfVehicleId": "PF-57878",
+  "type": "gps",
+  "latitude": 49.77722834,
+  "longitude": 6.08029457,
+  "dateTime": "2021-03-30T19:23:55.115Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:23:55.115Z\",\"latitude\":49.77722834,\"longitude\":6.08029457,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Bissen, Canton Mersch\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed9"
+  },
+  "id": "060aa47e-5c5d-43d3-a788-43778f8e6973",
+  "externalId": "212014918914560",
+  "name": "PF-90282",
+  "pfVehicleId": "PF-90282",
+  "type": "gps",
+  "latitude": 50.039459209,
+  "longitude": 6.07977074,
+  "dateTime": "2021-03-30T19:59:19.001Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:59:19.001Z\",\"latitude\":50.039459209,\"longitude\":6.07977074,\"headingDegrees\":346,\"speedMilesPerHour\":34,\"reverseGeo\":{\"formattedLocation\":\"Parc Hosingen, Canton Clervaux\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceede"
+  },
+  "id": "1c9c48dd-e2b9-45fe-892e-15bea30594bf",
+  "externalId": "212014918914593",
+  "name": "PF-79957",
+  "pfVehicleId": "PF-79957",
+  "type": "gps",
+  "latitude": 49.634870239,
+  "longitude": 5.88866809,
+  "dateTime": "2021-03-30T19:56:25.268Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:56:25.268Z\",\"latitude\":49.634870239,\"longitude\":5.88866809,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue Charles Kieffer, Steinfort, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceef0"
+  },
+  "id": "68221635-362f-47b9-acfc-01e445842772",
+  "externalId": "212014918914783",
+  "name": "CLERMONT 02/2",
+  "pfVehicleId": "CLERMONT 02/2",
+  "type": "gps",
+  "latitude": 45.93953725,
+  "longitude": 2.99671219,
+  "dateTime": "2021-03-30T19:36:30.210Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:36:30.210Z\",\"latitude\":45.93953725,\"longitude\":2.99671219,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Loubeyrat, Auvergne-Rhône-Alpes, 63410\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceedb"
+  },
+  "id": "49569cb0-b428-44cf-965c-ae073f8373c1",
+  "externalId": "212014918914888",
+  "name": "PF-88854",
+  "pfVehicleId": "PF-88854",
+  "type": "gps",
+  "latitude": 47.22507265,
+  "longitude": 4.99693483,
+  "dateTime": "2021-03-30T19:55:06.519Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:55:06.519Z\",\"latitude\":47.22507265,\"longitude\":4.99693483,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rue des Artisans, Gevrey-Chambertin, Bourgogne-Franche-Comté, 21220\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeec"
+  },
+  "id": "490c8b18-d720-4b21-a90e-bfc449487a40",
+  "externalId": "212014918914163",
+  "name": "PF-65062",
+  "pfVehicleId": "PF-65062",
+  "type": "gps",
+  "latitude": 47.39061473,
+  "longitude": 19.32041979,
+  "dateTime": "2021-03-30T19:25:02.215Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:25:02.215Z\",\"latitude\":47.39061473,\"longitude\":19.32041979,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Üllő, Közép-Magyarország, 2225\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceef4"
+  },
+  "id": "5de2d973-90eb-41d2-b1de-503a1a03e59b",
+  "externalId": "212014918914213",
+  "name": "PF-66217",
+  "pfVehicleId": "PF-66217",
+  "type": "gps",
+  "latitude": 49.20175413,
+  "longitude": 6.95078105,
+  "dateTime": "2021-03-22T17:44:40.004Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-22T17:44:40.004Z\",\"latitude\":49.20175413,\"longitude\":6.95078105,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Spicheren, Grand Est, 57350\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceedc"
+  },
+  "id": "5940d75b-4e7d-49f3-8cfa-45c65ee18a17",
+  "externalId": "212014918914599",
+  "name": "PF-80314",
+  "pfVehicleId": "PF-80314",
+  "type": "gps",
+  "latitude": 49.60435729,
+  "longitude": 6.13216999,
+  "dateTime": "2021-03-30T17:59:16.988Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T17:59:16.988Z\",\"latitude\":49.60435729,\"longitude\":6.13216999,\"headingDegrees\":16,\"speedMilesPerHour\":1,\"reverseGeo\":{\"formattedLocation\":\"Rue du Fort Élisabeth, Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee2"
+  },
+  "id": "a8d47675-0a1f-4285-bafa-a7b24a9fd615",
+  "externalId": "212014918914544",
+  "name": "PF-78655",
+  "pfVehicleId": "PF-78655",
+  "type": "gps",
+  "latitude": 49.583087769,
+  "longitude": 6.113027729,
+  "dateTime": "2021-03-30T19:57:30.047Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:57:30.047Z\",\"latitude\":49.583087769,\"longitude\":6.113027729,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Luxembourg, Canton Luxembourg\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceee8"
+  },
+  "id": "19321077-20d5-4c80-9b67-db30abb45ae3",
+  "externalId": "212014918886628",
+  "name": "PF-91763",
+  "pfVehicleId": "PF-91763",
+  "type": "gps",
+  "latitude": 50.11879829,
+  "longitude": 5.99684149,
+  "dateTime": "2021-03-30T19:30:03.854Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:30:03.854Z\",\"latitude\":50.11879829,\"longitude\":5.99684149,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Troisvierges, Canton Clervaux\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeea"
+  },
+  "id": "79d5bdbc-83c2-47df-aa94-9146ede934f5",
+  "externalId": "212014918914848",
+  "name": "PF-95376",
+  "pfVehicleId": "PF-95376",
+  "type": "gps",
+  "latitude": 49.56729754,
+  "longitude": 5.93490128,
+  "dateTime": "2021-03-30T19:23:05.165Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:23:05.165Z\",\"latitude\":49.56729754,\"longitude\":5.93490128,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Käerjeng, Canton Capellen\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceeef"
+  },
+  "id": "874909e4-0e82-4a2c-94db-6a2700b6c25c",
+  "externalId": "212014918914661",
+  "name": "PF-86513",
+  "pfVehicleId": "PF-86513",
+  "type": "gps",
+  "latitude": 49.839899209,
+  "longitude": 5.81462234,
+  "dateTime": "2021-03-30T19:35:42.233Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:35:42.233Z\",\"latitude\":49.839899209,\"longitude\":5.81462234,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Rambrouch, Canton Redange\"}}}"
+},{
+  "_id": {
+    "$oid": "60638343304a3d000e1ceed8"
+  },
+  "id": "7a4b47b6-2fbd-4cc9-bb02-b24b10cfe37c",
+  "externalId": "212014918914199",
+  "name": "PF-89136",
+  "pfVehicleId": "PF-89136",
+  "type": "gps",
+  "latitude": 49.635459199,
+  "longitude": 6.02004942,
+  "dateTime": "2021-03-30T19:17:33.836Z",
+  "providerType": "Samsara",
+  "metaDataProvider": "{\"gps\":{\"time\":\"2021-03-30T19:17:33.836Z\",\"latitude\":49.635459199,\"longitude\":6.02004942,\"headingDegrees\":0,\"speedMilesPerHour\":0,\"reverseGeo\":{\"formattedLocation\":\"Roudewee, Mamer, Canton Capellen\"}}}"
+}]
