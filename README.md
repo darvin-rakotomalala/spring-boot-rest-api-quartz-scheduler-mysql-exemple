@@ -29,14 +29,14 @@ Les travaux Quartz peuvent être conservés dans une base de données, un cache 
 * Les fonctionnalités de clustering rendent la disponibilité du planificateur très élevée car il utilise des fonctionnalités de basculement et d'équilibrage de charge.
 
 ### L'API Quartz
---
+---
 Les interfaces clés de l'API Quartz sont les suivantes :
-* Scheduler - C'est l'API principale pour interagir avec le planificateur.
-* Job - C'est une interface à implémenter par des composants que vous souhaitez faire exécuter par l'ordonnanceur du Framework Quartz.
-* JobDetail - Il est utilisé pour définir des instances de Jobs.
-* Trigger - Il s'agit d'un composant utilisé pour définir le calendrier d'exécution des tâches.
-* JobBuilder - Il est utilisé pour créer des instances de JobDetail, qui définissent des instances de Jobs.
-* TriggerBuilder - Il est utilisé pour créer des instances de déclencheur.
+* **Scheduler** - C'est l'API principale pour interagir avec le planificateur.
+* **Job** - C'est une interface à implémenter par des composants que vous souhaitez faire exécuter par l'ordonnanceur du Framework Quartz.
+* **JobDetail** - Il est utilisé pour définir des instances de Jobs.
+* **Trigger** - Il s'agit d'un composant utilisé pour définir le calendrier d'exécution des tâches.
+* **JobBuilder** - Il est utilisé pour créer des instances de JobDetail, qui définissent des instances de Jobs.
+* **TriggerBuilder** - Il est utilisé pour créer des instances de déclencheur.
 
 ### Prérequis
 ---
@@ -49,13 +49,13 @@ Pour ce projet, vous auriez besoin des spécifications suivantes :
 ### Dependances Maven
 ---
 Dans ce projet nous allons utiliser les dependances Maven suivants :
-	- **Spring Web** - Pour inclure Spring MVC et utilise le tomcat comme conteneur intégré par défaut.
-	- **Spring Data JPA** - API de persistance Java et Hibernate.
-	- **Spring Data MongoDB** - Stocke les données et les récupère à partir de MongoDB.
-	- **Spring Boot DevTools** - dépendance pour les rechargements automatiques ou le rechargement en direct des applications.
-	- Pilote **MySQL** - Pilote JDBC (peut être n'importe quelle base de données que vous souhaitez utiliser).
-	- **Quartz** - Est une bibliothèque de planification du travail open source qui peut être intégré dans pratiquement toutes les applications Java.
-	- **Spring Cloud Open Feign** - Un client REST déclaratif pour les applications Spring Boot.
+- **Spring Web** - Pour inclure Spring MVC et utilise le tomcat comme conteneur intégré par défaut.
+- **Spring Data JPA** - API de persistance Java et Hibernate.
+- **Spring Data MongoDB** - Stocke les données et les récupère à partir de MongoDB.
+- **Spring Boot DevTools** - dépendance pour les rechargements automatiques ou le rechargement en direct des applications.
+- Pilote **MySQL** - Pilote JDBC (peut être n'importe quelle base de données que vous souhaitez utiliser).
+- **Quartz** - Est une bibliothèque de planification du travail open source qui peut être intégré dans pratiquement toutes les applications Java.
+- **Spring Cloud Open Feign** - Un client REST déclaratif pour les applications Spring Boot.
 
 ### Exigences fonctionnelles
 ---
@@ -67,8 +67,9 @@ L'application doit permettre de :
 	* Déclenche l'opération suppression tous les 15 minutes par jour
 
 ### Architecture technique
-L'image suivante présente l'architecture globale du projet.
-
+---
+L'image suivante présente l'architecture globale du projet.<br/><br/>
+![Architecture_QuartzScheduler](https://user-images.githubusercontent.com/75081354/140496894-6b4f73f9-60bc-4a67-919c-da010b08bb45.jpg)
 
 Le module au cœur du Spring Framework (Spring Core) repose fondamentalement sur un seul principe de conception objet : l’inversion de contrôle.
 
@@ -80,9 +81,8 @@ Pour tester l'application :
 * Lancer d'abord le micro-service "spring-boot-rest-api-deletedata-mongodb" qui tourne avec un port : 8080
 * Lancer ensuit le deuxième micro-service "spring-boot-quartz-scheduler-cronjob-example" qui tourne avec un port 8081
 
-Console d'exécution
-
-<screenshot de résultat>
+Console d'exécution : <br/><br/>
+![Quartz_deleteData-result](https://user-images.githubusercontent.com/75081354/140496967-3a4eda01-1891-4b5a-9d5a-b977db9faf63.PNG)
 
 Voilà. Nous avons créé avec succès un exemple de projet Spring Boot avec Quartz Scheduler. <br/>
 Dans ce projet, nous avons construit deux projets Spring Boot entièrement fonctionnel qui permet de déclancher une opération de suppression des données dans une base de donnée MongoDB.
