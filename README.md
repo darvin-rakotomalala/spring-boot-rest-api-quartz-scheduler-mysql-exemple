@@ -9,12 +9,10 @@ Nous utiliserons MySQL pour conserver le logs des travaux et autres données li�
 
 ### Qu'est-ce que Quartz ?
 ---
-[Quartz](http://www.quartz-scheduler.org/) est une bibliothèque Java open source pour la planification des tâches. Il dispose d'un ensemble très riche de 
-fonctionnalités, y compris, mais sans s'y limiter, les tâches persistantes, les transactions et le clustering.
-<br/>
-Vous pouvez programmer des Jobs à exécuter à une certaine heure de la journée, ou périodiquement à un certain intervalle, 
-et bien plus encore. Quartz fournit une API fluide pour créer des tâches et les planifier.
-<br/>
+[Quartz](http://www.quartz-scheduler.org/) est une bibliothèque Java open source pour la planification des tâches. Il dispose d'un ensemble très riche de fonctionnalités, y compris, mais sans s'y limiter, les tâches persistantes, les transactions et le clustering.<br/>
+
+Vous pouvez programmer des Jobs à exécuter à une certaine heure de la journée, ou périodiquement à un certain intervalle, et bien plus encore. Quartz fournit une API fluide pour créer des tâches et les planifier.<br/>
+
 Les travaux Quartz peuvent être conservés dans une base de données, un cache ou en mémoire.
 
 ### Caractéristiques du quartz
@@ -78,11 +76,11 @@ L'**Inversion de contrôle (Spring IOC)** permet au développeur de s'occuper un
 ### Exécuter l'application
 ---
 Pour tester l'application :
-* Lancer d'abord le micro-service "spring-boot-rest-api-deletedata-mongodb" qui tourne avec un port : 8080
-* Lancer ensuit le deuxième micro-service "spring-boot-quartz-scheduler-cronjob-example" qui tourne avec un port 8081
+* Lancer d'abord le micro-service **"spring-boot-rest-api-deletedata-mongodb"** qui tourne avec un port : 8080
+* Lancer ensuit le deuxième micro-service **"spring-boot-quartz-scheduler-cronjob-example"** qui tourne avec un port 8081
 
 Console d'exécution : <br/><br/>
 ![Quartz_deleteData-result](https://user-images.githubusercontent.com/75081354/140496967-3a4eda01-1891-4b5a-9d5a-b977db9faf63.PNG)
 
-Voilà. Nous avons créé avec succès un exemple de projet Spring Boot avec Quartz Scheduler. <br/>
+Voilà! nous avons créé avec succès un exemple de projet Spring Boot avec Quartz Scheduler. <br/>
 Dans ce projet, nous avons construit deux projets Spring Boot entièrement fonctionnel qui permet de déclancher une opération de suppression des données dans une base de donnée MongoDB.
